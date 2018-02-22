@@ -5,11 +5,119 @@
     <link>/tags/</link>
     <description>Recent content in Tags on Lihao (Jasper) Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/tags/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aviato</title>
+      <link>/tags/aviato/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/aviato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bachman</title>
+      <link>/tags/bachman/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/bachman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Belson</title>
+      <link>/tags/belson/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/tags/belson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ceo</title>
+      <link>/tags/ceo/</link>
+      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/tags/ceo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eda</title>
+      <link>/tags/eda/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gavin</title>
+      <link>/tags/gavin/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/tags/gavin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>/tags/hardware/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hooli</title>
+      <link>/tags/hooli/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/tags/hooli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movielens</title>
+      <link>/tags/movielens/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/movielens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>/tags/pandas/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pied Piper</title>
+      <link>/tags/pied-piper/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/pied-piper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>
@@ -17,6 +125,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
     

@@ -1,3 +1,3 @@
 # jasperlihaozhang.github.io
 
-**Homepage of Lihao Zhang**
+Homepage of Lihao Zhang

@@ -1,39 +1,69 @@
-baseurl = "/"
-languageCode = "en-us"
+## Basic Configuration
+
+baseurl = "/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Lihao Zhang"
 title = "Lihao (Jasper) Zhang"
-theme = "hugo-lithium-theme"
-googleAnalytics = ""
-disqusShortname = ""
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+## Site Settings
+[params]
+author = "Lihao (Jasper) Zhang"
+intro = "Data Science Enthusiast, Amateur Billiards and Table-tennis Player"
+description = "Senior Data Analyst @RealtyMogul.com. Previously @University of Texas at Austin. <br/> \"What is F times 5? It's Fleventy-five.\""
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
 
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+github = "jasper7zlh"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "lihao-jasper-zhang-9231b13a"
+#twitter = "Jasperzlh"
+#facebook = "<username>"
+#google = "<username>"
+#stackoverflow = "<username>"
+email = "jasperlihaozhang@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Lihao Zhang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
+
+## Main Menu
 [[menu.main]]
-    name = "About"
+    name = "about"
+    weight = 100
+    identifier = "about"
     url = "/about/"
 [[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    name = "blog"
+    identifier = "blog"
+    weight = 200
+    url = "/blog/"
 [[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/rstudio"
-
-[params]
-    description = "A website built through Hugo and blogdown."
-
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1"
-
-    [params.logo]
-    url = "logo.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
+    name = "projects"
+    identifier = "projects"
+    weight = 300
+    url = "/projects/"

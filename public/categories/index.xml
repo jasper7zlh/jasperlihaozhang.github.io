@@ -5,10 +5,56 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Lihao (Jasper) Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad</title>
+      <link>/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/categories/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>/categories/articles/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movielens Eda</title>
+      <link>/categories/movielens-eda/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/categories/movielens-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propaganda</title>
+      <link>/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/categories/propaganda/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R</title>

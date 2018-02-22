@@ -1,0 +1,1 @@
+options(servr.daemon = TRUE, blogdown.author = "Lihao (Jasper) Zhang")
