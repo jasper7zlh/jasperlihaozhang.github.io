@@ -1,5 +1,5 @@
 +++
-categories = ["Machine Learning"]
+categories = ["MovieLens EDA"]
 comments = false
 date = "2018-03-18T22:28:13-04:00"
 draft = false

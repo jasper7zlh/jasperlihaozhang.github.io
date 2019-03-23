@@ -181,7 +181,7 @@
   
   <url>
     <loc>/categories/movielens-eda/</loc>
-    <lastmod>2018-02-21T22:28:13-04:00</lastmod>
+    <lastmod>2018-03-18T22:28:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,6 +236,12 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/sure/</loc>
+    <lastmod>2018-04-18T11:52:13-04:00</lastmod>
     <priority>0</priority>
   </url>
   

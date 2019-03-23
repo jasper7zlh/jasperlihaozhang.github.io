@@ -1,5 +1,6 @@
 +++
-categories = ["MovieLens EDA"]
+
+categories = ["Movielens Eda"]
 comments = false
 date = "2018-02-21T22:28:13-04:00"
 draft = false

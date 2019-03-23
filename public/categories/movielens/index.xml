@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movielens on Lihao (Jasper) Zhang</title>
+    <link>/categories/movielens/</link>
+    <description>Recent content in Movielens on Lihao (Jasper) Zhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 21 Feb 2018 22:28:13 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/movielens/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploratory Analysis with MovieLens Data</title>
+      <link>/blog/netflix_movie_recommendations/</link>
+      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/blog/netflix_movie_recommendations/</guid>
+      <description>1. Load Data into Pandas Dataframe import pandas as pd import numpy as np # pass in column names for each CSV and read them using pandas. # Column names available in the readme file # Reading users file: u_cols = [&#39;user_id&#39;, &#39;age&#39;, &#39;sex&#39;, &#39;occupation&#39;, &#39;zip_code&#39;] users = pd.read_csv(&#39;ml-100k/u.user&#39;, sep = &#39;|&#39;, names = u_cols, encoding = &#39;latin-1&#39;) # Reading ratings file: r_cols = [&#39;user_id&#39;, &#39;movie_id&#39;, &#39;rating&#39;, &#39;unix_timestamp&#39;] ratings = pd.</description>
+    </item>
+    
+  </channel>
+</rss>
