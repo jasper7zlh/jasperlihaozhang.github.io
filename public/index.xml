@@ -6,10 +6,28 @@
     <description>Recent content on Lihao (Jasper) Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Feb 2018 22:28:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 11:52:13 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finding Donors</title>
+      <link>/projects/finding_donors/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/projects/finding_donors/</guid>
+      <description>Supervised Learning Project: Finding Donors for CharityML Getting Started In this project, you will employ several supervised algorithms of your choice to accurately model individuals&amp;rsquo; income using data collected from the 1994 U.S. Census. You will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. Your goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.</description>
+    </item>
+    
+    <item>
+      <title>Boston Housing</title>
+      <link>/projects/boston_housing/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/projects/boston_housing/</guid>
+      <description>Model Evaluation &amp;amp; Validation Project: Predicting Boston Housing Prices Getting Started In this project, you will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value.</description>
+    </item>
     
     <item>
       <title>Exploratory Analysis with MovieLens Data</title>
@@ -37,16 +55,6 @@ When Hooli acquired Endframe, no one could wait to see what the tech giant would
       
       <guid>/about/</guid>
       <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
-    </item>
-    
-    <item>
-      <title>CodeRag</title>
-      <link>/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Notes: This article originally appeared in CodeRag.
-Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
     </item>
     
     <item>

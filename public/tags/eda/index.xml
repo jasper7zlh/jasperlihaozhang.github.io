@@ -6,10 +6,19 @@
     <description>Recent content in Eda on Lihao (Jasper) Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Feb 2018 22:28:13 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Mar 2018 22:28:13 -0400</lastBuildDate>
     
 	<atom:link href="/tags/eda/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boston Housing</title>
+      <link>/projects/boston_housing/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/projects/boston_housing/</guid>
+      <description>Model Evaluation &amp;amp; Validation Project: Predicting Boston Housing Prices Getting Started In this project, you will evaluate the performance and predictive power of a model that has been trained and tested on data collected from homes in suburbs of Boston, Massachusetts. A model trained on this data that is seen as a good fit could then be used to make certain predictions about a home — in particular, its monetary value.</description>
+    </item>
     
     <item>
       <title>Exploratory Analysis with MovieLens Data</title>

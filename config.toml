@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 author = "Lihao (Jasper) Zhang"
 intro = "Data Science Enthusiast, Amateur Billiards and Table-tennis Player"
-description = "Senior Data Analyst @RealtyMogul.com. Previously @University of Texas at Austin. <br/> \"What is F times 5? It's Fleventy-five.\""
+description = "Senior Data Analyst @RealtyMogul.com. Previously @University of Texas at Austin."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 

@@ -21,29 +21,20 @@
     </item>
     
     <item>
-      <title>Aviato</title>
-      <link>/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/aviato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bachman</title>
-      <link>/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/bachman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Belson</title>
       <link>/tags/belson/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/tags/belson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boston Housing Price Prediction</title>
+      <link>/tags/boston-housing-price-prediction/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/boston-housing-price-prediction/</guid>
       <description></description>
     </item>
     
@@ -57,11 +48,38 @@
     </item>
     
     <item>
+      <title>Complexity Curve</title>
+      <link>/tags/complexity-curve/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/complexity-curve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Validation</title>
+      <link>/tags/cross-validation/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/cross-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eda</title>
       <link>/tags/eda/</link>
-      <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
       
       <guid>/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature Importance</title>
+      <link>/tags/feature-importance/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/tags/feature-importance/</guid>
       <description></description>
     </item>
     
@@ -71,6 +89,24 @@
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/tags/gavin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradient Boosting</title>
+      <link>/tags/gradient-boosting/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/tags/gradient-boosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grid Search</title>
+      <link>/tags/grid-search/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/grid-search/</guid>
       <description></description>
     </item>
     
@@ -93,6 +129,15 @@
     </item>
     
     <item>
+      <title>Hyperparameter Tuning</title>
+      <link>/tags/hyperparameter-tuning/</link>
+      <pubDate>Sun, 18 Mar 2018 22:28:13 -0400</pubDate>
+      
+      <guid>/tags/hyperparameter-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Movielens</title>
       <link>/tags/movielens/</link>
       <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
@@ -102,20 +147,20 @@
     </item>
     
     <item>
+      <title>Naive Bayes</title>
+      <link>/tags/naive-bayes/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/tags/naive-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pandas</title>
       <link>/tags/pandas/</link>
       <pubDate>Wed, 21 Feb 2018 22:28:13 -0400</pubDate>
       
       <guid>/tags/pandas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pied Piper</title>
-      <link>/tags/pied-piper/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/pied-piper/</guid>
       <description></description>
     </item>
     
@@ -152,6 +197,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Svm</title>
+      <link>/tags/svm/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/tags/svm/</guid>
       <description></description>
     </item>
     
