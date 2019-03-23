@@ -13,6 +13,15 @@
     
     <item>
       <title>Finding Donors</title>
+      <link>/miscellaneous/finding_donors/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/miscellaneous/finding_donors/</guid>
+      <description>Supervised Learning Project: Finding Donors for CharityML Getting Started In this project, you will employ several supervised algorithms of your choice to accurately model individuals&amp;rsquo; income using data collected from the 1994 U.S. Census. You will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. Your goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.</description>
+    </item>
+    
+    <item>
+      <title>Finding Donors</title>
       <link>/projects/finding_donors/</link>
       <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
       

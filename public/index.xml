@@ -6,10 +6,28 @@
     <description>Recent content on Lihao (Jasper) Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Apr 2018 11:52:13 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2019 19:35:27 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 23 Mar 2019 19:35:27 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Lihao (Jasper) Zhang was borned in Northern China, he growed up in Shandong province with great interests in analytics, traveling and sports of various kinds including billiards (8 ball &amp;amp; 9 ball), NBA basketball, table tennis and badminton. After three years of FinTech industry experience at Los Angeles, traveling across 15+ U.S national parks and two years&amp;rsquo; study to get his MS degree in Statistics from The University of Texas at Austin, Lihao is now a data scientist in the tech consulting area at Shanghai in China.</description>
+    </item>
+    
+    <item>
+      <title>Finding Donors</title>
+      <link>/miscellaneous/finding_donors/</link>
+      <pubDate>Wed, 18 Apr 2018 11:52:13 -0400</pubDate>
+      
+      <guid>/miscellaneous/finding_donors/</guid>
+      <description>Supervised Learning Project: Finding Donors for CharityML Getting Started In this project, you will employ several supervised algorithms of your choice to accurately model individuals&amp;rsquo; income using data collected from the 1994 U.S. Census. You will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. Your goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.</description>
+    </item>
     
     <item>
       <title>Finding Donors</title>
@@ -46,15 +64,6 @@
       <guid>/blog/third/</guid>
       <description>Note: This article originally appeared in CodeRag.
 When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
     </item>
     
     <item>

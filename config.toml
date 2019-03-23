@@ -23,8 +23,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site Settings
 [params]
 author = "Lihao (Jasper) Zhang"
-intro = "Data Science Enthusiast, Amateur Billiards and Table-tennis Player"
-description = "Senior Data Analyst @RealtyMogul.com. Previously @University of Texas at Austin."
+intro = "Data Scientist, Traveler, Amateur Billiards and Table-tennis Player"
+description = "Currently Data Scientist @PwC SDC Shanghai. Previously a Longhorn @University of Texas at Austin, Hook 'em!"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -38,7 +38,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 github = "jasper7zlh"
 #instagram = "<username>"
 #xing = "<username>"
-linkedin = "lihao-jasper-zhang-9231b13a"
+linkedin = "lihao-zhang"
 #twitter = "Jasperzlh"
 #facebook = "<username>"
 #google = "<username>"
@@ -47,7 +47,7 @@ email = "jasperlihaozhang@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018. Lihao Zhang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018-2019. Lihao Zhang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
@@ -67,3 +67,8 @@ highlightjs = true
     identifier = "projects"
     weight = 300
     url = "/projects/"
+[[menu.main]]
+    name = "miscellaneous"
+    identifier = "miscellaneous"
+    weight = 400
+    url = "/miscellaneous/"

@@ -1,7 +1,7 @@
 +++
 categories = ["about"]
 comments = false
-date = "2016-10-02T22:55:05-04:00"
+date = "2019-03-23T19:35:27"
 draft = false
 slug = ""
 tags = ["about"]
@@ -10,9 +10,7 @@ title = "About"
 showpagemeta = false
 +++
 
-Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]
+Lihao (Jasper) Zhang was borned in Northern China, he growed up in Shandong province with great interests in analytics, traveling and sports of various kinds including billiards (8 ball & 9 ball), NBA basketball, table tennis and badminton. After three years of FinTech industry experience at Los Angeles, traveling across 15+ U.S national parks and two years' study to get his MS degree in Statistics from [The University of Texas at Austin](https://www.utexas.edu/), Lihao is now a data scientist in the tech consulting area at Shanghai in China.
 
-In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.
-
-In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.
+This is Lihao's personal website recording his blogs, personal projects and anything that is interesting to him. Thank you for stopping by, feel free to contact him if you want to share anything related to analytics, data science, sports and traveling.
 
