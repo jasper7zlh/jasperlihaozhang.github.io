@@ -1,6 +1,6 @@
 +++
 
-categories = ["sure"]
+categories = ["Machine Learning"]
 comments = false
 date = "2018-04-18T11:52:13-04:00"
 draft = false
