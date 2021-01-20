@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 author = "Lihao (Jasper) Zhang"
 intro = "Data Scientist, Traveler, Amateur Billiards and Table-tennis Player"
-description = "Currently Data Scientist @PwC SDC Shanghai. Previously a Longhorn [@University of Texas at Austin](https://www.utexas.edu/), Hook 'em!"
+description = "Currently a Data Scientist @PwC Acceleration Center, Shanghai. Previously a Longhorn [@University of Texas at Austin](https://www.utexas.edu/), Hook 'em!"
 authorimage = "headshot.jpeg"
 dateformat = "Jan 2, 2006"
 
@@ -47,7 +47,7 @@ email = "jasperlihaozhang@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "© 2018-2019. Lihao Zhang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2018-2021. Lihao Zhang. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = true
 highlightjs = true
 
